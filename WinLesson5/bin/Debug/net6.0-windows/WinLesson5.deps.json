@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinLesson5/1.0.0": {
+        "dependencies": {
+          "BL": "1.0.0",
+          "Dal": "1.0.0"
+        },
+        "runtime": {
+          "WinLesson5.dll": {}
+        }
+      },
+      "BL/1.0.0": {
+        "dependencies": {
+          "Dal": "1.0.0"
+        },
+        "runtime": {
+          "BL.dll": {}
+        }
+      },
+      "Dal/1.0.0": {
+        "runtime": {
+          "Dal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinLesson5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

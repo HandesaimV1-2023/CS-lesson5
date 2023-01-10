@@ -1,0 +1,24 @@
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\bin\Debug\net6.0\Dal.deps.json
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\bin\Debug\net6.0\Dal.dll
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\bin\Debug\net6.0\ref\Dal.dll
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\bin\Debug\net6.0\Dal.pdb
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\obj\Debug\net6.0\Dal.dll
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\obj\Debug\net6.0\ref\Dal.dll
+C:\Users\ברלין שולמית\Desktop\WinLesson5\Dal\obj\Debug\net6.0\Dal.pdb
+E:\להעתיק\Lesson5\Lesson5\Dal\bin\Debug\net6.0\Dal.deps.json
+E:\להעתיק\Lesson5\Lesson5\Dal\bin\Debug\net6.0\Dal.dll
+E:\להעתיק\Lesson5\Lesson5\Dal\bin\Debug\net6.0\Dal.pdb
+E:\להעתיק\Lesson5\Lesson5\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+E:\להעתיק\Lesson5\Lesson5\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\להעתיק\Lesson5\Lesson5\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+E:\להעתיק\Lesson5\Lesson5\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+E:\להעתיק\Lesson5\Lesson5\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+E:\להעתיק\Lesson5\Lesson5\Dal\obj\Debug\net6.0\Dal.dll
+E:\להעתיק\Lesson5\Lesson5\Dal\obj\Debug\net6.0\refint\Dal.dll
+E:\להעתיק\Lesson5\Lesson5\Dal\obj\Debug\net6.0\Dal.pdb
+E:\להעתיק\Lesson5\Lesson5\Dal\obj\Debug\net6.0\ref\Dal.dll

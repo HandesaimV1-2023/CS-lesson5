@@ -1,0 +1,15 @@
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\bin\Debug\net6.0\ConsoleUI.exe
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\bin\Debug\net6.0\ConsoleUI.deps.json
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\bin\Debug\net6.0\ConsoleUI.runtimeconfig.json
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\bin\Debug\net6.0\ConsoleUI.dll
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\bin\Debug\net6.0\ConsoleUI.pdb
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\ConsoleUI.dll
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\refint\ConsoleUI.dll
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
+E:\להעתיק\Lesson5\Lesson5\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
